@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/projects/Aura/Content/Blueprints/Character/Aura/BP_AuraCharacter.uasset",
+				"E:/projects/Aura/Content/Assets/Characters/Aura/SKM_Aura.uasset",
+				"E:/projects/Aura/Content/Blueprints/Character/Aura/BP_Goblin_Spear.uasset",
+				"E:/projects/Aura/Content/Blueprints/Character/Globin_Spear/BP_Goblin_Spear.uasset",
+				"E:/projects/Aura/Content/Maps/StartupMap.umap",
+				"E:/projects/Aura/Content/Assets/Characters/Aura/SK_Aura.uasset",
+				"E:/projects/Aura/Content/Assets/Enemies/Goblin/SK_Goblin.uasset",
 				"E:/Courses/Druid Mechanics Courses/GAS Official/Startup Project 5_2_0/Aura/Content/Assets/UI/Pickups/T_HealthCrystal.uasset",
 				"E:/Courses/Druid Mechanics Courses/GAS Official/Startup Project 5_2_0/Aura/Content/Assets/UI/Pickups/T_ManaCrystal.uasset",
 				"E:/Courses/Druid Mechanics Courses/GAS Official/Startup Project 5_2_0/Aura/Content/Assets/UI/Pickups/T_Potion_Blue.uasset",
